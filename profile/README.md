@@ -7,9 +7,9 @@
 _Move documents with clarity._
 
 <p>
-  <a href="https://github.com/Dargianz/Avalonia-DTS"><strong>Frontend</strong></a>
+  <a href="https://github.com/Dargianz/DTS-Frontend"><strong>Frontend</strong></a>
   &nbsp;&bull;&nbsp;
-  <a href="https://github.com/Dargianz/DDT-Backend"><strong>Backend</strong></a>
+  <a href="https://github.com/Dargianz/DTS-Backend"><strong>Backend</strong></a>
 </p>
 
 </div>
@@ -26,8 +26,8 @@ It brings the document lifecycle into one traceable workspace, from intake to fi
 
 | Layer | Repository | Role |
 | --- | --- | --- |
-| **Experience** | [Avalonia-DTS](https://github.com/Dargianz/Avalonia-DTS) | Cross-platform desktop, browser, Android, and iOS interface |
-| **Services** | [DDT-Backend](https://github.com/Dargianz/DDT-Backend) | ASP.NET Core APIs for documents, workflows, offices, users, roles, and notifications |
+| **Experience** | [DTS-Frontend](https://github.com/Dargianz/DTS-Frontend) | Cross-platform desktop, browser, Android, and iOS interface |
+| **Services** | [DTS-Backend](https://github.com/Dargianz/DTS-Backend) | ASP.NET Core APIs for documents, workflows, offices, users, roles, and notifications |
 
 ## What DTS Tracks
 
