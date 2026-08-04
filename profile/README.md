@@ -28,6 +28,7 @@ It brings the document lifecycle into one traceable workspace, from intake to fi
 | --- | --- | --- |
 | **Experience** | [DTS-Frontend](https://github.com/Dargianz/DTS-Frontend) | Cross-platform desktop, browser, Android, and iOS interface |
 | **Services** | [DTS-Backend](https://github.com/Dargianz/DTS-Backend) | ASP.NET Core APIs for documents, workflows, offices, users, roles, and notifications |
+| **Intelligence** | [DTS-RAG](https://github.com/Dargianz/DTS-RAG) | Retrieval-augmented generation architecture and configuration; under development |
 
 ## What DTS Tracks
 
@@ -61,6 +62,8 @@ REGISTER  ->  ROUTE  ->  REVIEW  ->  SIGN  ->  ARCHIVE
 > DTS is under active development.
 >
 > Interfaces, workflows, and APIs may evolve as institutional requirements are refined.
+>
+> RAG development is still under development and is not yet production-ready.
 
 <div align="center">
 
