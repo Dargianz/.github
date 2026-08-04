@@ -53,8 +53,8 @@ REGISTER  ->  ROUTE  ->  REVIEW  ->  SIGN  ->  ARCHIVE
 
 | Area | Project board | Milestone |
 | --- | --- | --- |
-| **Frontend** | [DTS Frontend Board](https://github.com/orgs/Dargianz/projects/1) | [Speedrun 1: Core Functionalities](https://github.com/Dargianz/DTS-Frontend/milestone/1) |
-| **Backend** | [DTS Backend Board](https://github.com/orgs/Dargianz/projects/3) | [Version-A0000 Sample Production](https://github.com/Dargianz/DTS-Backend/milestone/1) |
+| **Frontend** | [DTS Frontend Board](https://github.com/orgs/Dargianz/projects/1) | [Frontend milestones](https://github.com/Dargianz/DTS-Frontend/milestones) |
+| **Backend** | [DTS Backend Board](https://github.com/orgs/Dargianz/projects/3) | [Backend milestones](https://github.com/Dargianz/DTS-Backend/milestones) |
 
 ## Status
 
